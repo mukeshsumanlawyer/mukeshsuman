@@ -1,0 +1,11 @@
+# basic options
+title: Advocate & Legal Consultant
+author: Mukesh Kumar Suman
+email: mukesh_suman@outlook.com
+description: Advocate & Legal Consultant
+twitter_username: jekyllrb
+github_username:  mukeshsumanlawyer
+
+# Build settings
+markdown: kramdown
+theme: minima
