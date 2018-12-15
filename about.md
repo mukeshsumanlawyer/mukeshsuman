@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+Imagefile: mukesh.png
 ---
 
 Mukesh Kumar Suman is a practicing lawyer based at Delhi. He has done LL.B.
@@ -15,7 +16,3 @@ forums including Supreme Court, High Courts, District Courts, NCLT &amp; NCLAT,
 DRT &amp; DRAT, CAT etc.
 The objective of this initiative is to discuss contemporary legal issues and
 contribute to legal knowledge .
-
-## Other thoughts
-
-This is great.
