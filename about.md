@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-Imagefile: mukesh.png
 ---
+![alternate text](https://github.com/mukeshsumanlawyer/mukeshsuman/blob/master/mukesh.PNG)
 
 Mukesh Kumar Suman is a practicing lawyer based at Delhi. He has done LL.B.
 from Faculty of Law, Delhi University and M.A. in Personnel Management &amp;
